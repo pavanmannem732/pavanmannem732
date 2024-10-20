@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pavanmannem
 - 👀 I’m interested in frontend development
+- 🌟 Java Developer | Passionate about building robust applications and solving complex problems. Experienced in developing scalable solutions using Java frameworks and libraries. Always eager to learn and collaborate on innovative projects! 🚀
 - 🌱 I’m currently learning front end skills
 - 💞️ I’m looking to collaborate on hands-on projects
 - 📫 Anyone can reach me through Linkedin website : https://www.linkedin.com/in/pavan-mannem-090175247/
